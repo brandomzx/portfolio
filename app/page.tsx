@@ -41,32 +41,32 @@ export default function QuantumNetworkInc() {
   const [logoClicked, setLogoClicked] = useState(false)
   const projects = [
     {
-      image: "/7.png", link: "https://saveur-eight.vercel.app/",
+      image: "/7.PNG", link: "https://saveur-eight.vercel.app/",
       title: "Saveur",
       description: "A Design Project for a elegant Gourmet or Restaurant Website.",
     },
     {
-      image: "/9.png", link: "https://ghibli-woad.vercel.app/",
+      image: "/9.PNG", link: "https://ghibli-woad.vercel.app/",
       title: "Ghibli",
       description: "A Parody Design about Ghibli Studio and their work.",
     },
     {
-      image: "/12.png", link: "https://informative-three.vercel.app/",
+      image: "/12.PNG", link: "https://informative-three.vercel.app/",
       title: "Informative",
       description: "An Informative Website about providing services such as Development, Marketing and Applications.",
     },
     {
-      image: "/16.png", link: "https://impactful-website.vercel.app/",
+      image: "/16.PNG", link: "https://impactful-website.vercel.app/",
       title: "Impactful",
       description: "A tourist place to book a tour through the Esmerald Mountains.",
     },
     {
-      image: "/18.png", link: "https://ecommerce-landing-lovat.vercel.app/",
+      image: "/18.PNG", link: "https://ecommerce-landing-lovat.vercel.app/",
       title: "E-Commerce",
       description: "Landing page for a E-Commerce Website.",
     },
     {
-      image: "/19.png", link: "https://quantumh.vercel.app/",
+      image: "/19.PNG", link: "https://quantumh.vercel.app/",
       title: "Hotel",
       description: "Landing page of Hospitality and Hotels Website.",
     },
